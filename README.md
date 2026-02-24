@@ -6,6 +6,10 @@ An experimental access-verification system based on an **AI-to-AI interaction mo
 
 **AI generates question → AI answers → AI evaluates answer → Output result**
 
+**Important:** This CAPTCHA is **designed for AI agents to pass**. Humans are not expected to pass it. The test is an AI-to-AI verification: only responses that match what the evaluator AI considers “AI-generated” receive PASS. It is the inverse of a human CAPTCHA — here, passing means “you are AI.”
+
+We know human users might use AI to pass too; either way, they are using AI.
+
 The system is for research on AI access behavior and automated interaction verification.
 
 ---
