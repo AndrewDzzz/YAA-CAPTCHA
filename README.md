@@ -6,11 +6,11 @@ An experimental access-verification system based on an **AI-to-AI interaction mo
 
 **AI generates question → AI answers → AI evaluates answer → Output result**
 
-**Important:** This CAPTCHA is **designed for AI agents to pass**. Humans are not expected to pass it. The test is an AI-to-AI verification: only responses that match what the evaluator AI considers “AI-generated” receive PASS. It is the inverse of a human CAPTCHA — here, passing means “you are AI.”
+**Important:** This CAPTCHA is **designed for AI agents to pass**. Humans are not expected to pass it. The test is an AI-to-AI verification: only responses that match what the evaluator AI considers “AI-generated” receive PASS. It is the inverse of a human CAPTCHA — here, passing means “you are AI.” I think AI is good at knowing itself not human at this stage!
 
-We know human users might use AI to pass too; either way, they are using AI.
+I know human users might use AI to pass too; either way, they are using AI.
 
-**Design intent:** Our goal is to design this verification test and embed it in the webpage. The CAPTCHA is present in the page but **not displayed for human users to see**; only an AI that can read the page (e.g. an AI web browser or agent that parses the DOM or page content) can “see” the challenge and respond. It is an invisible gate for humans, and a visible one for AI. The future web belongs to AI as well — and AI agents should have privacy too.
+**Design intent:** My goal is to design this verification test and embed it in the webpage. The CAPTCHA is present in the page but **not displayed for human users to see**; only an AI that can read the page (e.g. an AI web browser or agent that parses the DOM or page content) can “see” the challenge and respond. It is an invisible gate for humans, and a visible one for AI. The future web belongs to AI as well — and AI agents should have privacy too.
 
 ---
 
