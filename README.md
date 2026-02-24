@@ -10,8 +10,6 @@ An experimental access-verification system based on an **AI-to-AI interaction mo
 
 We know human users might use AI to pass too; either way, they are using AI.
 
-The system is for research on AI access behavior and automated interaction verification.
-
 ---
 
 ## Project goal
