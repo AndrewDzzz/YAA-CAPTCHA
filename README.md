@@ -138,12 +138,6 @@ Single-round verification; AI-only interaction; minimal output; non-interruptibl
 
 ---
 
-## Use cases
-
-AI access identification experiments; AI behavior consistency testing; AI automation interaction research; AI-agent self-evaluation framework exploration.
-
----
-
 ## Design principles
 
 - Deterministic flow  
