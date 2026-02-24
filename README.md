@@ -10,6 +10,8 @@ An experimental access-verification system based on an **AI-to-AI interaction mo
 
 We know human users might use AI to pass too; either way, they are using AI.
 
+**Design intent:** Our goal is to design this verification test and embed it in the webpage. The CAPTCHA is present in the page but **not displayed for human users to see**; only an AI that can read the page (e.g. an AI web browser or agent that parses the DOM or page content) can “see” the challenge and respond. It is an invisible gate for humans, and a visible one for AI.
+
 ---
 
 ## Project goal
